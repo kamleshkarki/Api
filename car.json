@@ -1,0 +1,38 @@
+[
+{
+	"PickupLocation": "Ranikhet",
+	"DropLocation": "Almora",
+	"NumberofPassenger": "1",
+	"Direction": "Oneway",
+	"car": "Alto",
+	"Fare": "300",
+},
+
+{
+	"PickupLocation": "Ranikhet",
+	"DropLocation": "Nanital",
+	"NumberofPassenger": "2",
+	"Direction": "Return",
+	"car": "Boloro",
+	"Fare": "250"
+
+},
+
+{
+	"PickupLocation": "Ranikhet",
+	"Drop Location": "Bhageswar",
+	"NumberofPassenger": "4",
+	"Direction": "Oneway",
+	"car": "xylo",
+	"Fare": "400"
+
+},
+
+{
+	"PickupLocation": "Ranikhet",
+	"Drop Location": "Dharawat",
+	"NumberofPassenger": "5",
+	"Direction": "Return",
+	"car": "innova",
+	"Fare": "300"
+}];
